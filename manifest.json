@@ -1,9 +1,9 @@
 {
+ "start_url": "index.htm",
  "background_color": "#FFFFFF",
  "name": "Pousada Aconchego",
- "start_url": "index.htm",
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
+ "display": "fullscreen",
  "icons": [
   {
    "sizes": "16x16",
@@ -40,5 +40,6 @@
    "type": "image/png",
    "src": "misc/icon180.png"
   }
- ]
+ ],
+ "description": "Projeto Pousada Aconchego"
 }
